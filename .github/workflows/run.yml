@@ -1,0 +1,40 @@
+name: Run Python script 
+ 
+on:
+    push:
+    workflow_dispatch:
+    schedule:
+    # Draait elke dag om 10,15 en 20 uur NL-tijd (hieronder in UTC)
+    - cron:  '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install pandas requests
+
+    - name: Run script
+      run: python scrape_fiets.openov.nl-locaties.py
+
+    - name: List files in current directory
+      run: ls -l
+
+    - run: |-
+                  git config user.name 'GitHub Actions'
+                  git config user.email 'actions@users.noreply.github.com'
+                  git pull
+                  git add -A
+                  git commit -m 'Updates' || exit 0
+                  git push
+                  
