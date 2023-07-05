@@ -3,6 +3,7 @@ import json
 import csv
 import datetime
 import time
+import os
 
 # Verkrijg de JSON data
 response = requests.get("http://fiets.openov.nl/locaties.json")
