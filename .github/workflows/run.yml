@@ -5,7 +5,7 @@ on:
     workflow_dispatch:
     schedule:
     # Draait elke dag om 10,15 en 20 uur NL-tijd (hieronder in UTC)
-    - cron:  '0 * * * *'
+    - cron:  '* * * * *'
 
 jobs:
   build:
