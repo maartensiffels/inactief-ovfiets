@@ -23,7 +23,7 @@ os.makedirs('scrapes', exist_ok=True)
 
 # Maak een CSV bestandsnaam met de huidige tijd als Unix Timestamp
 current_time = int(time.time())
-filename = os.path.join(os.getcwd(), 'scrapes', f"beschikbaarheid_ov-fietsen_{current_time}.csv")
+filename = os.path.join(os.getcwd(), 'scrapes', f'beschikbaarheid_ov-fietsen_{current_time}.csv')
 
 # Schrijf de gegevens naar een CSV-bestand
 with __builtins__.open(filename, 'w', newline='') as f:
