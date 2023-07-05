@@ -25,7 +25,7 @@ jobs:
         pip install pandas requests
 
     - name: Run script
-      run: python scrape_fiets.openov.nl-locaties.py
+      run: python scrape_fiets-openov-nl.py
 
     - name: List files in current directory
       run: ls -l
