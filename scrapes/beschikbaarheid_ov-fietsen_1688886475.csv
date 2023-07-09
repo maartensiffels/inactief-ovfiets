@@ -1,0 +1,339 @@
+description,locationCode,rentalBikes,fetchTime,open
+Utrecht Terwijde,utt001,4,1688886434,Yes
+Eindhoven Noordzijde,,86,1665662115,Yes
+Brummen,bmn001,4,1688886434,Yes
+Ermelo,eml001,1,1688886434,Unknown
+Ravenstein,Rvs001,7,1688886434,Yes
+Utrecht Vaartsche Rijn Oosterkade,UTVR001,54,1684854854,Yes
+Bergen op Zoom,bgn001,19,1678694969,Yes
+Lochem,lc001,5,1688886434,Yes
+Schagen,sgn001,3,1688886434,Yes
+Oldenzaal,odz001,1,1688886434,Yes
+Cuijk,ck001,14,1688886434,Yes
+Goes,gs003,11,1688886434,Yes
+Vroomshoop,vhp001,4,1688886434,Yes
+Best,bet001,18,1688886434,No
+Winterswijk,ww001,0,1688886434,Yes
+Amsterdam Bijlmer ArenA,asb003,15,1688886434,Yes
+Utrecht Centraal Jaarbeursplein,ut016,308,1688886434,Yes
+Zuidhorn,Zh001,7,1688886434,Yes
+Soestdijk,sd001,2,1688886434,Yes
+Utrecht Vaartsche Rijn Oosterkade,ut019,23,1683629913,Yes
+Utrecht Janskerkhof,ut018,2,1688886434,Yes
+Utrecht Vredenburg,ut006,29,1677604114,Yes
+Harderwijk,hd001,33,1688886434,Yes
+Zwijndrecht,zwd002,28,1675240492,Yes
+Hengelo,hgl002,1,1688886434,Yes
+Maarheeze,mz001,3,1688886434,Yes
+Den Haag HS,gv001,29,1688886434,Yes
+Heerhugowaard,hwd003,13,1688886434,Yes
+Openbare fietsenstalling gemeente Groningen : Fietsenstalling Europapark,gerp002,8,1688886434,Yes
+Deventer Boerhavelaan,dv003,16,1688886434,Yes
+Uden,Ow002,6,1688886434,Yes
+Deventer,dv001,25,1688886434,Yes
+Steenwijk,swk001,10,1671526428,Yes
+Helmond Brandevoort,hmbv001,3,1688886434,Yes
+Den Helder Zuid,hdrz001,3,1688886434,Yes
+"Leiden Centraal,Uitgang LUMC",ledn001,123,1688886434,Yes
+Sneek,sk001,0,1688886434,Yes
+Geldrop,Gp001,2,1688886434,Yes
+Oudenbosch,odb001,2,1688886434,Yes
+Anna Paulowna,ana001,1,1688886434,Yes
+Horst Sevenum,hrt001,0,1688886434,Yes
+Amersfoort Schothorst,amfs001,21,1688886434,Yes
+Roosendaal,rsd003,47,1678695411,Yes
+Roosendaal,rsd002,47,1688886434,Yes
+OV-ebike Arnhem Centrum,ah003,7,1688886434,Yes
+Gilze Rijen,gz001,4,1688886434,Yes
+Emmen,emn001,19,1688886434,No
+Halfweg Zwanenburg,hwzb001,5,1688886434,Yes
+Hoorn Kersenboogerd,hnk001,3,1688886434,Yes
+Hoorn,hn001,41,1688886434,Yes
+Rotterdam Kralingse Zoom,Rta003,12,1688886434,Yes
+Rhenen,rhn001,1,1688886434,Yes
+Rijssen,rsn001,4,1688886434,Yes
+Venlo,vl001,40,1688886434,Yes
+Ommen,omn001,1,1688886434,Yes
+Culemborg,cl002,13,1677764847,Yes
+Culemborg,cl003,15,1688886434,Yes
+Groningen Noord,Gnn001,1,1688886434,Yes
+Culemborg,cl001,,1638967434,Yes
+Voorburg,vb001,28,1675153509,Yes
+Eindhoven Strijp-S,ehs001,1,1688886434,Yes
+Haarlem Spaarnwoude,hlms001,1,1688886434,Yes
+Dordrecht,ddr001,15,1688886434,Yes
+Soest Zuid,stz001,3,1688886434,Yes
+Haren,HRN002,0,1688886434,Unknown
+Hollandse Rading OV-fiets Carrousel,hor001,14,1688886434,Yes
+Utrecht P+R Westraven,ut007,9,1688886434,Yes
+Maastricht Randwyck,mtr001,4,1688886434,Yes
+Amsterdam Muiderpoort,asdm001,11,1688886434,Yes
+Castricum,cas001,54,1667467212,Yes
+Wolfheze,wf001,4,1688886434,Yes
+Meerssen,mes001,2,1688886434,Yes
+Maassluis,mss001,10,1688886434,Yes
+Weesp,wp001,25,1688886434,No
+Weert,wt003,7,1688886434,Yes
+Vierlingsbeek,vlb001,5,1688886434,Yes
+Amsterdam Sloterdijk,ass001,42,1688886434,Yes
+Gorinchem,gr001,0,1688886434,Yes
+Rotterdam Alexander,rta001,0,1688886434,Yes
+Valkenburg,vk001,2,1688886434,Yes
+Almelo,aml002,0,1688886434,Yes
+Bloemendaal,bll001,0,1688886434,Yes
+Etten-Leur,etn001,1,1688886434,Yes
+Almelo,aml001,19,1678718208,Yes
+Heiloo,hlo001,6,1688886434,Yes
+Utrecht Mariaplaats,ut014,14,1677604114,Yes
+Purmerend Overwhere,pmo001,3,1688886434,Yes
+Doetinchem,dtc001,0,1688886434,Yes
+Lelystad Centrum,lls002,15,1666626240,Yes
+Nijmegen Goffert,nmgo001,3,1688886434,Yes
+Zandvoort Zilt-Bikes,zvt002,,1642524080,Yes
+Zwolle Hanzeland/Zuidzijde,zl002,,1674641829,Yes
+Holten,hon001,5,1688886434,Yes
+Boskoop,bk001,3,1683629913,Yes
+Breda Prinsenbeek,bdpb001,2,1688886434,Yes
+Zwolle,zl004,210,1688886434,Yes
+Baarn,brn002,24,1688886434,Yes
+Nijmegen,nm001,62,1688886434,Yes
+Bovenkarspel-Grootebroek,bkg001,2,1688886434,Yes
+Dieren,dr001,0,1688886434,Yes
+Zeist,db002,17,1688886434,Yes
+Driebergen-Zeist,db001,111,1688886434,Yes
+Echt,ec001,5,1688886434,Yes
+Lelystad Centrum,lls003,5,1688886434,Yes
+Middelburg,mdb002,2,1688886434,Yes
+Raalte,rat001,4,1688886434,Yes
+Dalfsen,dl001,1,1688886434,Yes
+Rotterdam Slinge,rtd904,0,1688886434,Yes
+Boxmeer,Bmr001,10,1688886434,Yes
+Pijnacker,rtd906,3,1688886434,Yes
+Veenendaal,vndc002,2,1659359068,Yes
+Nunspeet,Ns001,1,1688886434,Unknown
+Voorhout,vh001,2,1688886434,Yes
+Maastricht Noord,mtn001,9,1688886434,Yes
+Doetinchem de Huet,dtch001,3,1688886434,Yes
+Delden,ddn001,0,1688886434,Yes
+Muiden P&R,wp901,6,1688886434,Yes
+'t Harde,Hde001,1,1688886434,Yes
+Hengelo Gezondheidspark,hglg001,4,1688886434,Yes
+Bodegraven,bdg001,1,1688886434,Yes
+Utrecht Overvecht,uto001,4,1688886434,Yes
+Hilversum Sportpark ,hvsp001,9,1688886434,No
+Delft Zuid,dtz001,,1688886434,Yes
+Vught,Vg001,4,1688886434,Yes
+Amsterdam Zuid Zuidplein,asdz001,83,1688886434,Yes
+Heemskerk,hk001,6,1688886434,Yes
+Amsterdam Zuid Mahlerplein,asdz003,57,1688886434,Yes
+Utrecht Vaartsche Rijn Oosterkade,UTVR002,0,1688886434,Yes
+Utrecht Zuilen,utzl001,0,1688886434,Yes
+Alphen aan den Rijn,apn001,30,1688886434,Yes
+Rotterdam Blaak,rtb001,3,1688886434,No
+Vriezenveen,vz001,4,1688886434,Yes
+Zwijndrecht,zwd003,24,1688886434,Yes
+OV-ebike Driebergen-Zeist,db003,21,1688886434,Yes
+Eindhoven Noordzijde,ehv003,2,1688886434,No
+Eindhoven Zuidzijde (centrum),ehv002,116,1688886434,Yes
+Winschoten,ws001,3,1688886434,Yes
+Veghel,Btl003,5,1688886434,Yes
+Naarden-Bussum,ndb002,44,1674039176,Yes
+Naarden-Bussum,ndb003,24,1688886434,Yes
+Woerden,wd001,25,1688886434,Yes
+s-Hertogenbosch,ht001,129,1688886434,Yes
+Baarn,brn001,,1666857504,Yes
+Overveen,ovn001,2,1688886434,Yes
+Waalwijk,ht002,6,1688886434,Yes
+Maarssen,mas003,14,1688886434,Yes
+Kerkrade Centrum,krd001,4,1688886434,Yes
+Venray,vry001,16,1688886434,Yes
+Eindhoven Strijp-S,ehb001,1,1683629913,Yes
+Veenendaal West,vndw001,7,1688886434,Yes
+Aalten,atn001,5,1688886434,Yes
+Haarlem Fiets Inn,hlm002,152,1688886434,Yes
+Bilthoven,bhv002,17,1688886434,Yes
+Purmerend,pmr001,4,1688886434,Yes
+Bilthoven,bhv001,,1666857504,Yes
+Hardenberg,hdb001,3,1688886434,Yes
+Beverwijk,bv002,40,1688886434,Yes
+Boxtel,btl001,14,1688886434,No
+Hoogezand Sappemeer,Hgz001,4,1688886434,Yes
+Heerhugowaard,hwd002,23,1667896108,Yes
+Amersfoort Vathorst,avat001,1,1688886434,Yes
+Roermond,rm001,21,1688886434,Yes
+Krommenie-Assendelft,kma001,2,1688886434,Yes
+Heerlen,hrl001,29,1678868445,Yes
+Schiphol,shl001,3,1688886434,Yes
+Rosmalen,rs001,5,1688886434,Yes
+Utrecht P+R Science Park (De Uithof) ZS,ut908,10,1666164653,Yes
+Vianen OV-fiets Carrousel,ut905,24,1688886434,Yes
+Utrecht P+R Papendorp,ut904,1,1688886434,Yes
+Utrecht Stadhuis,ut003,8,1677604114,Yes
+P + R Utrecht Science Park (De Uithof),ut906,8,1688886434,Yes
+Hengelo,hgl001,,1675688931,Yes
+Arnhem Centrum,ah001,125,1688886434,Yes
+Utrecht Rijnsweerd,ut903,4,1688886434,Yes
+Alkmaar,amr001,67,1688886434,Yes
+Vlaardingen Centrum,vdg001,,1642524080,Yes
+Rotterdam Centraal,rtd001,96,1688886434,Yes
+Tilburg West Universiteit,tbu001,2,1688886434,Yes
+Sittard,std002,14,1688886434,Yes
+"Leiden Centraal, Centrumzijde",ledn002,5,1688886434,No
+Gouda Goverwelle,gdg001,2,1688886434,Yes
+Den Haag Laan van NOI,laa001,0,1688886434,Yes
+Alkmaar Noord,amrn002,13,1688886434,Yes
+Zandvoort,zvt001,8,1688886434,Yes
+Uitgeest,utg001,1,1688886434,Yes
+Alkmaar Noord,amrn003,29,1667467212,Yes
+Den Helder,hdr003,6,1667896108,Yes
+Nootdorp,gvc901,4,1688886434,Yes
+Houten,htn001,57,1688886434,Yes
+Steenwijk,swk002,2,1688886434,Yes
+Lage Zwaluwe,Zlw001,2,1688886434,Yes
+Hoogeveen,hgv002,23,1679582772,Yes
+Zutphen,zp001,48,1688886434,Yes
+Zwolle Hanzeland,zl003,15,1688886434,Yes
+Breda Centrum,Bd003,92,1688886434,Yes
+Den Haag Mariahoeve,gvm001,2,1688886434,Yes
+Zaltbommel,zbm001,25,1677765289,Yes
+Barneveld Noord,bnn001,4,1688886434,Yes
+Almere Centrum Landdrostdreef,alm001,58,1688886434,Yes
+Zaltbommel,zbm002,18,1688886434,Yes
+Schiedam,sdm001,12,1688886434,Yes
+Zoetermeer Centrum West,ztm002,18,1688886434,Yes
+Borne,bn001,8,1688886434,Yes
+Zevenbergen,Zvb001,7,1688886434,Yes
+Driehuis,drh001,4,1688886434,Yes
+Helmond Brouwhuis,hmbh001,3,1688886434,Yes
+Amsterdam Centraal Stationsplein,asd010,164,1688886434,Yes
+Nijmegen Heyendaal,nmh001,1,1688886434,Yes
+Barendrecht,brd002,22,1688886434,Yes
+Rheden,rh001,1,1688886434,Yes
+Barendrecht,brd001,29,1675240492,Yes
+Bergen op Zoom,bgn002,11,1688886434,Yes
+Breda Belcrum,bd002,155,1688886434,Yes
+Amsterdam Centraal IJzijde,asd008,129,1688886434,Yes
+Amsterdam Noord,asd009,3,1688886434,Yes
+Obdam,obd001,1,1688886434,Yes
+Tiel,tl003,16,1688886434,Yes
+Tiel,tl002,26,1677765289,Yes
+Amsterdam Centraal Oost,asd002,28,1688886434,Yes
+Santpoort Noord,sptn001,5,1688886434,Yes
+Oss West,ow001,5,1688886434,Yes
+Tilburg Zuid,tb003,101,1688886434,Yes
+Groningen,gn001,178,1688886434,Yes
+Groningen P+R Hoogkerk,gn002,,1667985514,Yes
+Groningen P+R Kardinge,gn003,6,1667985514,Yes
+Utrecht Lunetten,utl001,1,1688886434,Yes
+Enschede,es002,25,1679582772,Yes
+OV-fiets - Maastricht,mt001,49,1688886434,Yes
+OV-ebike Maastricht,mt003,18,1688886434,Yes
+Putten,pt001,4,1688886434,Yes
+Houten Castellum,htnc001,33,1688886434,Yes
+Heerenveen,hr001,8,1668506290,Yes
+Kampen,kpn002,29,1668679584,Yes
+Veendam,Vdm001,1,1688886434,Yes
+Didam,did001,0,1688886434,Yes
+Gouda,gd001,110,1688886434,Yes
+Heemstede-Aerdenhout,had002,6,1688886434,Yes
+Rotterdam Fietspunt Wilhelminakade Prinsendam,Rtd003,1,1688886434,Yes
+Rotterdam Fietspunt Marconiplein,Rtd004,1,1688886434,Yes
+Enkhuizen,ekz001,15,1688886434,Unknown
+Hellendoorn/Nijverdal OV-fiets Carrousel,nvd001,1,1688886434,Yes
+Goor,go001,4,1688886434,Yes
+Sleeuwijk Tol West,GR002 ,3,1688886434,Yes
+Barneveld Centrum,bnc001,1,1688886434,Yes
+Hoofddorp,hfd002,50,1688886434,Yes
+Zoetermeer Oost,ztmo001,2,1688886434,Yes
+Hoogeveen,hgv003,19,1688886434,Yes
+Oisterwijk,Ot001,4,1688886434,Yes
+Duivendrecht,dvd001,0,1688886434,Yes
+Helmond 't Hout,hmh001,4,1688886434,Yes
+Den Haag Centraal Koningin Julianaplein,gvc021,299,1688886434,Yes
+Dronten,DRON001,5,1688886434,Yes
+Heerenveen,hr002,8,1688886434,Yes
+Utrecht Leidsche Rijn,utlr001,5,1688886434,Yes
+Pijnacker Zuid,rtd907,1,1688886434,Yes
+Sittard,std001,26,1678868445,Yes
+Heerlen,hrl002,27,1688886434,Yes
+Diemen,dmn001,0,1688886434,Yes
+Boxtel - Kluis,btl004,1,1688886434,Yes
+Voorburg,vb002,11,1688886434,Yes
+Kampen,kpn003,15,1688886434,Yes
+Meppel,mp002,9,1688886434,Yes
+Hoogkarspel,hks001,2,1688886434,Yes
+Westervoort,wtv001,1,1688886434,Yes
+Bussum Zuid,bsmz001,2,1688886434,Yes
+Amsterdam RAI,rai001,6,1688886434,Yes
+Velp,vp001,2,1688886434,Yes
+Leeuwarden,lw001,134,1688886434,Yes
+Bunnik,bnk001,16,1688886434,Yes
+Meppel,mp001,18,1679582772,Yes
+Veenendaal-De klomp,klp001,1,1688886434,Yes
+Amsterdam Amstel,asa001,34,1688886434,Yes
+Geldermalsen,gdm001,0,1688886434,Yes
+Weert,wt001,22,1680508453,Yes
+Oss,o001,20,1677854436,Yes
+Den Helder,hdr002,9,1688886434,Yes
+Oss,o002,17,1688886434,Yes
+Amsterdam Lelyplein,asdl001,0,1688886434,No
+Otterlo,ed901,18,1688886434,Yes
+Winsum,Wsm001,0,1688886434,Yes
+Haren P+R Transferium,hrn001,7,1667985514,Yes
+Zaandam,ZD002,34,1688886434,Yes
+Ede-Wageningen Zuidzijde,ed001,142,1688886434,Yes
+Tilburg Reeshof,tbr001,3,1688886434,Yes
+OV-ebike Groningen,gn004,5,1688886434,Yes
+Vleuten,vtn001,2,1688886434,Yes
+Hilversum,hvs001,163,1688886434,Yes
+Goes,gs002,24,1678295851,Yes
+Duiven ,dvn001,8,1688886434,Yes
+Terborg,tbg001,6,1688886434,Yes
+Den Haag Centraal Stichthage,gvc001,44,1688886434,Yes
+Varsseveld,vsv001,3,1688886434,Yes
+Santpoort Zuid,sptz001,6,1688886434,Yes
+Zevenaar,zv001,1,1688886434,Yes
+Tilburg Noord,tb002,19,1688886434,Yes
+Breukelen,bkl001,3,1688886434,Yes
+Leiden de Vink,dvnk001,2,1688886434,Yes
+Deurne,dn001,1,1688886434,Yes
+Boskoop,bsk001,3,1688886434,Yes
+Zoetermeer Driemanspolder,ztm003,18,1688886434,Yes
+Landgraaf,lg001,1,1688886434,Yes
+Heeze-Leende,hze001,7,1688886434,Yes
+Olst,ost001,3,1688886434,Yes
+Beesd,bsd001,3,1688886434,Yes
+Amsterdam Centraal West,asd007,2,1675083239,Yes
+Amersfoort Mondriaanplein,amf002,59,1688886434,Yes
+Amersfoort Centraal,amf001,287,1688886434,Yes
+Almere Centrum,alm003,24,1672730464,Yes
+Utrecht Centraal Stationsplein,ut020,508,1688886434,Yes
+Utrecht Centraal Knoop,ut021,20,1688886434,Yes
+Zaandam,ZD003,41,1668506290,Yes
+Diemen Zuid,dmnz001,1,1688886434,Yes
+Beilen,bl001,19,1688886434,No
+Den Dolder,dld001,6,1688886434,Yes
+'s-Hertogenbosch Oost,Hto001,6,1688886434,Yes
+Assen,asn001,157,1688886434,Yes
+Vlissingen,vs001,19,1688886434,No
+Enschede,es003,7,1688886434,Yes
+Helmond,hm001,13,1688886434,Yes
+Delfzijl,Dz001,2,1688886434,Yes
+Sliedrecht,sdt001,1,1688886434,Yes
+Voorschoten,vst001,0,1688886434,Yes
+Wijhe,wh001,1,1688886434,Yes
+Maarssen,MAS001,,1666857726,Yes
+Hillegom,hil001,0,1688886434,Yes
+Castricum,cas002,5,1688886434,Yes
+Hoofddorp,hfd001,39,1668505847,Yes
+Rotterdam Lombardijen,rlb001,4,1688886434,No
+Reuver,rv001,8,1688886434,Yes
+Ede-Wageningen Zuidplein,ed002,17,1688886434,Yes
+Wijchen,wc001,1,1688886434,Yes
+Elst,est001,2,1688886434,Yes
+Apeldoorn,apd001,318,1688886434,Yes
+"Delft, Fietsenstalling",dt002,183,1688886434,Yes
+Rijswijk,rsw002,21,1688886434,Yes
+Appingedam,Apg001,2,1688886434,Yes
+Middelburg,mdb001,21,1678295851,Yes
+Rijswijk,rsw001,31,1675153509,Yes
