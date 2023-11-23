@@ -4,7 +4,6 @@ import csv
 import datetime
 import time
 import os
-from dateutil.parser import parse
 
 # Verkrijg de JSON data
 response = requests.get("http://fiets.openov.nl/locaties.json")
@@ -21,18 +20,13 @@ for key, location in data['locaties'].items():
     open_status = location.get('open', '')
     extracted_data.append([description, location_code, rental_bikes, fetch_time, loc_type, open_status])
 
-# Maak een CSV bestandsnaam met de huidige tijd als Unix Timestamp
-current_time = int(time.time())
-filename = f"scrapes/beschikbaarheid_ov-fietsen_{current_time}.csv"
-
 # Haal de huidige directory op waar het script wordt uitgevoerd
 current_dir = os.getcwd()
 
-# Controleer of de scrapes directory bestaat, maak deze anders aan
-if not os.path.exists(os.path.join(current_dir, 'scrapes')):
-    os.makedirs(os.path.join(current_dir, 'scrapes'))
-
 # Schrijf de gegevens naar een CSV-bestand in de map 'scrapes'
+scrapes_dir = os.path.join(current_dir, 'scrapes')
+os.makedirs(scrapes_dir, exist_ok=True)
+filename = f"scrapes/beschikbaarheid_ov-fietsen_{int(time.time())}.csv"
 with open(os.path.join(current_dir, filename), 'w', newline='') as f:
     writer = csv.writer(f)
     writer.writerow(["description", "locationCode", "rentalBikes", "fetchTime", "type", "open"])
@@ -40,17 +34,12 @@ with open(os.path.join(current_dir, filename), 'w', newline='') as f:
 
 print(f"Data geschreven naar {filename}")
 
-# Voeg de nieuwe gegevens toe aan het 'master' CSV-bestand
-#master_file_path = os.path.join(current_dir, "beschikbaarheid_ov-fietsen_master.csv")
-#with open(master_file_path, 'a', newline='') as f:
-#   writer = csv.writer(f)
-#  writer.writerows(extracted_data)
-#print("Data toegevoegd aan beschikbaarheid_ov-fietsen_master.csv")
-
 # Schrijf de gegevens per maand naar afzonderlijke CSV-bestanden
 for row in extracted_data:
-    fetch_time = parse(row[3])  # Dit gebruikt de dateutil.parser om de tijd te parsen
-    monthly_filename = f"beschikbaarheid_ov-fietsen_{fetch_time.year}_{fetch_time.month}.csv"
+    # Zorg ervoor dat fetch_time een string is die een datum en tijd representeert
+    fetch_time = datetime.datetime.fromtimestamp(int(row[3])).strftime('%Y-%m-%d %H:%M:%S')
+    fetch_date = datetime.datetime.strptime(fetch_time, '%Y-%m-%d %H:%M:%S')
+    monthly_filename = f"beschikbaarheid_ov-fietsen_{fetch_date.year}_{fetch_date.month}.csv"
     monthly_file_path = os.path.join(current_dir, monthly_filename)
     # Check of het maandelijkse bestand al bestaat, zo niet maak dan een nieuwe met headers
     file_exists = os.path.isfile(monthly_file_path)
