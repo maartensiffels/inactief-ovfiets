@@ -1,15 +1,17 @@
 import requests
+import json
 import csv
 import datetime
+import time
 import os
-from collections import defaultdict
+from dateutil.parser import parse
 
 # Verkrijg de JSON data
 response = requests.get("http://fiets.openov.nl/locaties.json")
 data = response.json()
 
-# Haal de nodige informatie op en groepeer deze per maand
-monthly_data = defaultdict(list)
+# Haal de nodige informatie op
+extracted_data = []
 for key, location in data['locaties'].items():
     description = location.get('description', '')
     location_code = location.get('extra', {}).get('locationCode', '')
@@ -17,29 +19,45 @@ for key, location in data['locaties'].items():
     fetch_time = location.get('extra', {}).get('fetchTime', '')
     loc_type = location.get('extra', {}).get('type', '')
     open_status = location.get('open', '')
-    
-    # Converteer fetch_time naar een datetime object en formatteer naar "YYYY-MM"
-    fetch_time_datetime = datetime.datetime.fromtimestamp(int(fetch_time))
-    month_year = fetch_time_datetime.strftime("%Y-%m")
-    
-    monthly_data[month_year].append([description, location_code, rental_bikes, fetch_time, loc_type, open_status])
+    extracted_data.append([description, location_code, rental_bikes, fetch_time, loc_type, open_status])
+
+# Maak een CSV bestandsnaam met de huidige tijd als Unix Timestamp
+current_time = int(time.time())
+filename = f"scrapes/beschikbaarheid_ov-fietsen_{current_time}.csv"
 
 # Haal de huidige directory op waar het script wordt uitgevoerd
 current_dir = os.getcwd()
 
 # Controleer of de scrapes directory bestaat, maak deze anders aan
-scrapes_dir = os.path.join(current_dir, 'scrapes')
-if not os.path.exists(scrapes_dir):
-    os.makedirs(scrapes_dir)
+if not os.path.exists(os.path.join(current_dir, 'scrapes')):
+    os.makedirs(os.path.join(current_dir, 'scrapes'))
 
-# Schrijf de gegevens naar een CSV-bestand per maand
-for month_year, data in monthly_data.items():
-    filename = os.path.join(scrapes_dir, f"beschikbaarheid_ov-fietsen_{month_year}.csv")
-    with open(filename, 'w', newline='') as f:
+# Schrijf de gegevens naar een CSV-bestand in de map 'scrapes'
+with open(os.path.join(current_dir, filename), 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(["description", "locationCode", "rentalBikes", "fetchTime", "type", "open"])
+    writer.writerows(extracted_data)
+
+print(f"Data geschreven naar {filename}")
+
+# Voeg de nieuwe gegevens toe aan het 'master' CSV-bestand
+#master_file_path = os.path.join(current_dir, "beschikbaarheid_ov-fietsen_master.csv")
+#with open(master_file_path, 'a', newline='') as f:
+#   writer = csv.writer(f)
+#  writer.writerows(extracted_data)
+#print("Data toegevoegd aan beschikbaarheid_ov-fietsen_master.csv")
+
+# Schrijf de gegevens per maand naar afzonderlijke CSV-bestanden
+for row in extracted_data:
+    fetch_time = parse(row[3])  # Dit gebruikt de dateutil.parser om de tijd te parsen
+    monthly_filename = f"beschikbaarheid_ov-fietsen_{fetch_time.year}_{fetch_time.month}.csv"
+    monthly_file_path = os.path.join(current_dir, monthly_filename)
+    # Check of het maandelijkse bestand al bestaat, zo niet maak dan een nieuwe met headers
+    file_exists = os.path.isfile(monthly_file_path)
+    with open(monthly_file_path, 'a', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow(["description", "locationCode", "rentalBikes", "fetchTime", "type", "open"])
-        writer.writerows(data)
-    print(f"Data geschreven naar {filename}")
+        if not file_exists:
+            writer.writerow(["description", "locationCode", "rentalBikes", "fetchTime", "type", "open"])
+        writer.writerow(row)
 
-# (Optioneel) Voeg de nieuwe gegevens toe aan het 'master' CSV-bestand per maand
-# Deze stap zou afhankelijk zijn van hoe u de 'master' bestanden georganiseerd wilt hebben.
+    print(f"Data geschreven naar {monthly_filename}")
