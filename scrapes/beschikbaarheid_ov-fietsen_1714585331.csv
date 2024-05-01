@@ -1,0 +1,291 @@
+description,locationCode,rentalBikes,fetchTime,type,open
+Utrecht Terwijde,utt001,6,1714585286,OV_FIETS,Yes
+Brummen,bmn001,5,1714585286,OV_FIETS,Yes
+Ermelo,eml001,2,1714585286,OV_FIETS,Unknown
+Ravenstein,Rvs001,7,1714585286,OV_FIETS,Yes
+Utrecht Vaartsche Rijn Oosterkade,UTVR001,73,1714585286,OV_FIETS,Yes
+Nijmegen Goffert,nmgo001,2,1714585286,OV_FIETS,Yes
+Lochem,lc001,0,1714585286,OV_FIETS,Yes
+Bergen op Zoom,bgn002,10,1714585286,OV_FIETS,Yes
+Oldenzaal,odz001,3,1714585286,OV_FIETS,Yes
+Cuijk,ck001,14,1714585286,OV_FIETS,Yes
+Veenendaal-De klomp,klp001,23,1714585286,OV_FIETS,Yes
+Vroomshoop,vhp001,3,1714585286,OV_FIETS,Yes
+Best,bet001,19,1714585286,OV_FIETS,Yes
+Winterswijk,ww001,2,1714585286,OV_FIETS,Yes
+Amsterdam Bijlmer ArenA,asb003,0,1695282760,OV_FIETS,Yes
+Boxtel - Kluis,btl004,11,1714585286,OV_FIETS,Yes
+Zuidhorn,Zh001,8,1714585286,OV_FIETS,Yes
+Houten Castellum,htnc001,30,1714585286,OV_FIETS,Yes
+Voorhout,vh001,2,1714585286,OV_FIETS,Yes
+Tilburg Reeshof,tbr001,4,1714585286,OV_FIETS,Yes
+Harderwijk,hd001,35,1714585286,OV_FIETS,Yes
+Utrecht P+R Westraven,ut007,13,1714585286,OV_FIETS,Yes
+Den Haag HS,gv001,41,1714585286,OV_FIETS,Yes
+Heerhugowaard,hwd003,25,1714585286,OV_FIETS,Yes
+Openbare fietsenstalling gemeente Groningen : Fietsenstalling Europapark,gerp002,6,1714585286,OV_FIETS,Yes
+Deventer Boerhavelaan,dv003,18,1714585286,OV_FIETS,Yes
+Uden,Ow002,8,1714585286,OV_FIETS,Yes
+Deventer,dv001,116,1714585286,OV_FIETS,Yes
+"Leiden Centraal, Centrumzijde",ledn002,37,1714585286,OV_FIETS,Yes
+Helmond Brandevoort,hmbv001,4,1714585286,OV_FIETS,Yes
+Den Helder Zuid,hdrz001,7,1714585286,OV_FIETS,Yes
+Castricum,cas002,9,1714585286,OV_FIETS,Yes
+Sneek,sk001,6,1714585286,OV_FIETS,Yes
+Geldrop,Gp001,10,1714585286,OV_FIETS,Yes
+Oudenbosch,odb001,3,1714585286,OV_FIETS,Yes
+Anna Paulowna,ana001,1,1714585286,OV_FIETS,Yes
+Goes,gs003,23,1714585286,OV_FIETS,Yes
+Amersfoort Schothorst,amfs001,27,1714585286,OV_FIETS,Yes
+Roosendaal,rsd002,41,1714585286,OV_FIETS,Yes
+OV-ebike Arnhem Centrum,ah003,14,1714585286,OV_FIETS,Yes
+Gilze Rijen,gz001,6,1714585286,OV_FIETS,Yes
+Halfweg Zwanenburg,hwzb001,5,1714585286,OV_FIETS,Yes
+Hoorn Kersenboogerd,hnk001,0,1714585286,OV_FIETS,Yes
+Hoorn,hn001,45,1714585286,OV_FIETS,Yes
+Rotterdam Kralingse Zoom,Rta003,17,1714585286,OV_FIETS,Yes
+Boskoop,bsk001,3,1714585286,OV_FIETS,Yes
+Rijssen,rsn001,10,1714585286,OV_FIETS,Yes
+Venlo,vl001,54,1714585286,OV_FIETS,Yes
+Ommen,omn001,6,1714585286,OV_FIETS,Yes
+Culemborg,cl003,23,1714585286,OV_FIETS,Yes
+Groningen Noord,Gnn001,0,1714585286,OV_FIETS,Yes
+Eindhoven Strijp-S,ehs001,3,1714585286,OV_FIETS,Yes
+Haarlem Spaarnwoude,hlms001,2,1714585286,OV_FIETS,Yes
+Voorburg,vb002,31,1714585286,OV_FIETS,Yes
+Soest Zuid,stz001,2,1714585286,OV_FIETS,Yes
+Haren,HRN002,5,1714585286,OV_FIETS,Unknown
+Hollandse Rading OV-fiets Carrousel,hor001,22,1714585286,OV_FIETS,Yes
+Maarheeze,mz001,1,1714585286,OV_FIETS,Yes
+Maastricht Randwyck,mtr001,5,1714585286,OV_FIETS,Yes
+Amsterdam Muiderpoort,asdm001,14,1714585286,OV_FIETS,Yes
+Dieren,dr001,5,1714585286,OV_FIETS,Yes
+Wolfheze,wf001,2,1714585286,OV_FIETS,Yes
+Meerssen,mes001,2,1714585286,OV_FIETS,Yes
+Dordrecht,ddr001,38,1714585286,OV_FIETS,Yes
+Maassluis,mss001,6,1714585286,OV_FIETS,Yes
+Weesp,wp001,32,1714585286,OV_FIETS,Yes
+Vierlingsbeek,vlb001,5,1714585286,OV_FIETS,Yes
+Amsterdam Sloterdijk,ass001,121,1714585286,OV_FIETS,Yes
+Gorinchem,gr001,6,1714585286,OV_FIETS,Yes
+Rotterdam Alexander,rta001,0,1714585286,OV_FIETS,Yes
+Valkenburg,vk001,4,1714585286,OV_FIETS,Yes
+Almelo,aml002,22,1714585286,OV_FIETS,Yes
+Bloemendaal,bll001,2,1714585286,OV_FIETS,Yes
+Etten-Leur,etn001,7,1714585286,OV_FIETS,Yes
+Heiloo,hlo001,10,1714585286,OV_FIETS,Yes
+"Leiden Centraal,Uitgang LUMC",ledn001,72,1714585286,OV_FIETS,Yes
+Purmerend Overwhere,pmo001,0,1714585286,OV_FIETS,Yes
+Lelystad Centrum,lls003,27,1714585286,OV_FIETS,Yes
+Utrecht Centraal Jaarbeursplein,ut016,234,1714585286,OV_FIETS,Yes
+Zwolle Hanzeland,zl003,21,1714585286,OV_FIETS,Yes
+Holten,hon001,5,1714585286,OV_FIETS,Yes
+Wijhe,wh001,5,1714585286,OV_FIETS,Yes
+Breda Prinsenbeek,bdpb001,6,1714585286,OV_FIETS,Yes
+Zwolle,zl004,255,1714585286,OV_FIETS,Yes
+Nijmegen,nm001,185,1714585286,OV_FIETS,Yes
+Bovenkarspel-Grootebroek,bkg001,2,1714585286,OV_FIETS,Yes
+OV-ebike Driebergen-Zeist,db003,29,1714585286,OV_FIETS,Yes
+Zeist,db002,22,1714585286,OV_FIETS,Yes
+Driebergen-Zeist,db001,114,1714585286,OV_FIETS,Yes
+Echt,ec001,8,1714585286,OV_FIETS,Yes
+Raalte,rat001,3,1714585286,OV_FIETS,Yes
+Dalfsen,dl001,2,1714585286,OV_FIETS,Yes
+Rotterdam Slinge,rtd904,5,1714585286,OV_FIETS,Yes
+Boxmeer,Bmr001,14,1714585286,OV_FIETS,Yes
+Pijnacker,rtd906,1,1714585286,OV_FIETS,Yes
+Veenendaal Centrum,vndc002,3,1714585286,OV_FIETS,Yes
+Nunspeet,Ns001,7,1714585286,OV_FIETS,Unknown
+Maastricht Noord,mtn001,4,1714585286,OV_FIETS,Yes
+Doetinchem de Huet,dtch001,10,1714585286,OV_FIETS,Yes
+Utrecht Janskerkhof,ut018,8,1714585286,OV_FIETS,Yes
+Delden,ddn001,0,1714585286,OV_FIETS,Yes
+Muiden P&R,wp901,5,1714585286,OV_FIETS,Yes
+Lage Zwaluwe,Zlw001,6,1714585286,OV_FIETS,Yes
+Hengelo Gezondheidspark,hglg001,7,1714585286,OV_FIETS,Yes
+Bodegraven,bdg001,4,1714585286,OV_FIETS,Yes
+Utrecht Overvecht,uto001,14,1714585286,OV_FIETS,Yes
+Soestdijk,sd001,4,1714585286,OV_FIETS,Yes
+Delft Zuid,dtz001,,1714585286,OV_FIETS,Yes
+Vught,Vg001,5,1714585286,OV_FIETS,Yes
+Amsterdam Zuid Zuidplein,asdz001,50,1714585286,OV_FIETS,Yes
+Heemskerk,hk001,6,1714585286,OV_FIETS,Yes
+Amsterdam Zuid Mahlerplein,asdz003,94,1714585286,OV_FIETS,Yes
+Utrecht Vaartsche Rijn Oosterkade,UTVR002,0,1700488276,OV_FIETS,Yes
+Utrecht Zuilen,utzl001,3,1714585286,OV_FIETS,Yes
+Alphen aan den Rijn,apn001,35,1714585286,OV_FIETS,Yes
+Rotterdam Blaak,rtb001,12,1714585286,OV_FIETS,No
+Vriezenveen,vz001,3,1714585286,OV_FIETS,Yes
+Zwijndrecht,zwd003,23,1714585286,OV_FIETS,Yes
+Eindhoven OV-fiets PopUp (naast AH),ehv004,34,1698620813,OV_FIETS,Yes
+Eindhoven Noordzijde,ehv003,20,1714585286,OV_FIETS,Yes
+Eindhoven Zuidzijde (centrum),ehv002,63,1714585286,OV_FIETS,Yes
+Winschoten,ws001,6,1714585286,OV_FIETS,Yes
+Overveen,ovn001,1,1714585286,OV_FIETS,Yes
+Veghel,Btl003,7,1714585286,OV_FIETS,Yes
+Naarden-Bussum,ndb003,51,1714585286,OV_FIETS,Yes
+Woerden,wd001,29,1714585286,OV_FIETS,Yes
+s-Hertogenbosch,ht001,232,1714585286,OV_FIETS,Yes
+Baarn,brn002,32,1714585286,OV_FIETS,Yes
+Waalwijk,ht002,6,1714585286,OV_FIETS,Yes
+Kerkrade Centrum,krd001,3,1714585286,OV_FIETS,Yes
+Veenendaal West,vndw001,8,1714585286,OV_FIETS,Yes
+Aalten,atn001,7,1714585286,OV_FIETS,Yes
+Haarlem Fiets Inn,hlm002,152,1714585286,OV_FIETS,Yes
+Bilthoven,bhv002,36,1714585286,OV_FIETS,Yes
+Purmerend,pmr001,0,1714585286,OV_FIETS,Yes
+Hardenberg,hdb001,5,1714585286,OV_FIETS,Yes
+Utrecht Centraal Knoop,ut021,180,1714585286,OV_FIETS,Yes
+Beverwijk,bv002,53,1714585286,OV_FIETS,Yes
+Boxtel,btl001,20,1714585286,OV_FIETS,No
+Hoogezand Sappemeer,Hgz001,9,1714585286,OV_FIETS,Yes
+Santpoort Noord,sptn001,6,1714585286,OV_FIETS,Yes
+Amersfoort Vathorst,avat001,1,1714585286,OV_FIETS,Yes
+Roermond,rm001,44,1714585286,OV_FIETS,Yes
+Krommenie-Assendelft,kma001,4,1714585286,OV_FIETS,Yes
+Heerlen,hrl002,23,1714585286,OV_FIETS,Yes
+Rosmalen,rs001,6,1714585286,OV_FIETS,Yes
+Vianen OV-fiets ,ut905,15,1714585286,OV_FIETS,Yes
+Utrecht P+R Papendorp,ut904,4,1714585286,OV_FIETS,Yes
+P + R Utrecht Science Park (De Uithof),ut906,7,1714585286,OV_FIETS,Yes
+Arnhem Centrum,ah001,272,1714585286,OV_FIETS,Yes
+Hoofddorp,hfd002,49,1714585286,OV_FIETS,Yes
+Alkmaar,amr001,78,1714585286,OV_FIETS,Yes
+Schagen,sgn001,9,1714585286,OV_FIETS,Yes
+Rotterdam Centraal,rtd001,449,1714585286,OV_FIETS,Yes
+Tilburg West Universiteit,tbu001,15,1714585286,OV_FIETS,Yes
+Gouda Goverwelle,gdg001,7,1714585286,OV_FIETS,Yes
+Den Haag Laan van NOI,laa001,1,1714585286,OV_FIETS,Yes
+"Delft, Fietsenstalling",dt002,153,1714585286,OV_FIETS,Yes
+Uitgeest,utg001,2,1714585286,OV_FIETS,Yes
+Den Helder,hdr002,30,1714585286,OV_FIETS,Yes
+Alkmaar Noord,amrn002,29,1714585286,OV_FIETS,Yes
+Nootdorp,gvc901,2,1714585286,OV_FIETS,Yes
+Houten,htn001,48,1714585286,OV_FIETS,Yes
+Steenwijk,swk002,6,1714585286,OV_FIETS,Yes
+Hoogeveen,hgv003,29,1714585286,OV_FIETS,Yes
+Zutphen,zp001,85,1714585286,OV_FIETS,Yes
+Breda Centrum,Bd003,108,1714585286,OV_FIETS,Yes
+Den Haag Mariahoeve,gvm001,3,1714585286,OV_FIETS,Yes
+Venray,vry001,21,1714585286,OV_FIETS,Yes
+Barneveld Noord,bnn001,3,1714585286,OV_FIETS,Yes
+Zaltbommel,zbm002,27,1714585286,OV_FIETS,Yes
+Schiedam,sdm001,10,1714585286,OV_FIETS,Yes
+Zoetermeer Centrum West,ztm002,,1714585286,OV_FIETS,Yes
+Borne,bn001,6,1714585286,OV_FIETS,Yes
+Zevenbergen,Zvb001,6,1714585286,OV_FIETS,Yes
+Driehuis,drh001,3,1714585286,OV_FIETS,Yes
+Helmond Brouwhuis,hmbh001,1,1714585286,OV_FIETS,Yes
+Nijmegen Heyendaal,nmh001,1,1714585286,OV_FIETS,Yes
+Barendrecht,brd002,24,1714585286,OV_FIETS,Yes
+Rheden,rh001,0,1714585286,OV_FIETS,Yes
+Den Haag Centraal Koningin Julianaplein,gvc021,0,1695722302,OV_FIETS,Yes
+Breda Belcrum,bd002,205,1714585286,OV_FIETS,Yes
+Amsterdam Centraal IJzijde,asd008,201,1714585286,OV_FIETS,Yes
+Amsterdam Noord,asd009,4,1714585286,OV_FIETS,Yes
+Obdam,obd001,3,1714585286,OV_FIETS,Yes
+Tiel,tl003,27,1714585286,OV_FIETS,Yes
+OV-ebike Groningen,gn004,9,1714585286,OV_FIETS,Yes
+Oss West,ow001,8,1714585286,OV_FIETS,Yes
+Groningen,gn001,483,1714585286,OV_FIETS,Yes
+Emmen,emn001,14,1714585286,OV_FIETS,No
+Utrecht Lunetten,utl001,1,1714585286,OV_FIETS,Yes
+Zandvoort,zvt001,11,1714585286,OV_FIETS,Yes
+OV-fiets - Maastricht,mt001,101,1714585286,OV_FIETS,Yes
+OV-ebike Maastricht,mt003,12,1714585286,OV_FIETS,Yes
+Putten,pt001,5,1714585286,OV_FIETS,Yes
+Heerenveen,hr002,,1714585286,OV_FIETS,Yes
+Kampen,kpn003,29,1714585286,OV_FIETS,Yes
+Veendam,Vdm001,9,1714585286,OV_FIETS,Yes
+Didam,did001,6,1714585286,OV_FIETS,Yes
+Gouda,gd001,118,1714585286,OV_FIETS,Yes
+Heemstede-Aerdenhout,had002,7,1714585286,OV_FIETS,Yes
+Rotterdam Fietspunt Wilhelminakade Prinsendam,Rtd003,10,1714585286,OV_FIETS,Yes
+Rotterdam Fietspunt Marconiplein,Rtd004,3,1714585286,OV_FIETS,Yes
+Enkhuizen,ekz001,20,1714585286,OV_FIETS,Unknown
+Hellendoorn/Nijverdal OV-fiets Carrousel,nvd001,18,1714585286,OV_FIETS,Yes
+Horst Sevenum,hrt001,5,1714585286,OV_FIETS,Yes
+Goor,go001,1,1714585286,OV_FIETS,Yes
+Sleeuwijk Tol West,GR002 ,3,1714585286,OV_FIETS,Yes
+Barneveld Centrum,bnc001,5,1714585286,OV_FIETS,Yes
+Zoetermeer Oost,ztmo001,0,1714585286,OV_FIETS,Yes
+Oisterwijk,Ot001,4,1714585286,OV_FIETS,Yes
+Duivendrecht,dvd001,1,1714585286,OV_FIETS,Yes
+Helmond 't Hout,hmh001,4,1714585286,OV_FIETS,Yes
+Dronten,DRON001,6,1714585286,OV_FIETS,Yes
+Pijnacker Zuid,rtd907,2,1714585286,OV_FIETS,Yes
+Utrecht Leidsche Rijn,utlr001,0,1714585286,OV_FIETS,Yes
+Amsterdam Bijlmer ArenA,asb002,14,1714585286,OV_FIETS,Yes
+Sittard,std002,27,1714585286,OV_FIETS,Yes
+Diemen,dmn001,0,1714585286,OV_FIETS,Yes
+Amsterdam Centraal Stationsplein,asd010,92,1714585286,OV_FIETS,Yes
+Zevenaar,zv001,6,1714585286,OV_FIETS,Yes
+Hoogkarspel,hks001,11,1714585286,OV_FIETS,Yes
+Westervoort,wtv001,5,1714585286,OV_FIETS,Yes
+Bussum Zuid,bsmz001,4,1714585286,OV_FIETS,Yes
+Amsterdam RAI,rai001,15,1714585286,OV_FIETS,Yes
+Velp,vp001,5,1714585286,OV_FIETS,Yes
+Leeuwarden,lw001,147,1714585286,OV_FIETS,Yes
+Bunnik,bnk001,18,1714585286,OV_FIETS,Yes
+Meppel,mp002,21,1714585286,OV_FIETS,Yes
+Amsterdam Amstel,asa001,138,1714585286,OV_FIETS,Yes
+Weert,wt003,25,1714585286,OV_FIETS,Yes
+Ede-Wageningen Zuidzijde,ed001,172,1710712243,OV_FIETS,Yes
+Oss,o002,24,1714585286,OV_FIETS,Yes
+Delfzijl,Dz001,5,1714585286,OV_FIETS,Yes
+Otterlo,ed901,19,1714585286,OV_FIETS,Yes
+Winsum,Wsm001,3,1714585286,OV_FIETS,Yes
+Schiphol,shl001,2,1714585286,OV_FIETS,Yes
+Geldermalsen,gdm001,0,1714585286,OV_FIETS,Yes
+Amsterdam Centraal Oost,asd002,162,1714585286,OV_FIETS,Yes
+Vleuten,vtn001,4,1714585286,OV_FIETS,Yes
+Hilversum,hvs001,178,1714585286,OV_FIETS,Yes
+'t Harde,Hde001,13,1714585286,OV_FIETS,Yes
+Duiven ,dvn001,19,1714585286,OV_FIETS,Yes
+Terborg,tbg001,4,1714585286,OV_FIETS,Yes
+Den Haag Centraal Stichthage,gvc001,411,1714585286,OV_FIETS,Yes
+Varsseveld,vsv001,4,1714585286,OV_FIETS,Yes
+Santpoort Zuid,sptz001,5,1714585286,OV_FIETS,Yes
+Tilburg Zuid,tb003,205,1714585286,OV_FIETS,Yes
+Tilburg Noord,tb002,20,1714585286,OV_FIETS,Yes
+Breukelen,bkl001,2,1714585286,OV_FIETS,Yes
+Leiden de Vink,dvnk001,2,1714585286,OV_FIETS,Yes
+Beesd,bsd001,2,1714585286,OV_FIETS,Yes
+Deurne,dn001,6,1714585286,OV_FIETS,Yes
+Rhenen,rhn001,2,1714585286,OV_FIETS,Yes
+Zoetermeer Driemanspolder,ztm003,23,1714585286,OV_FIETS,Yes
+Landgraaf,lg001,5,1714585286,OV_FIETS,Yes
+Heeze-Leende,hze001,6,1714585286,OV_FIETS,Yes
+Hilversum Sportpark ,hvsp001,10,1714585286,OV_FIETS,No
+Olst,ost001,,1714585286,OV_FIETS,Yes
+Maarssen,mas003,34,1714585286,OV_FIETS,Yes
+Amersfoort Mondriaanplein,amf002,68,1714585286,OV_FIETS,Yes
+Ede-Wageningen Zuidzijde,ed004,135,1714585286,OV_FIETS,Yes
+Amersfoort Centraal,amf001,276,1714585286,OV_FIETS,Yes
+Hillegom,hil001,0,1714585286,OV_FIETS,Yes
+Utrecht Centraal Stationsplein,ut020,624,1714585286,OV_FIETS,Yes
+Almere Centrum Landdrostdreef,alm001,51,1714585286,OV_FIETS,Yes
+Doetinchem,dtc001,4,1714585286,OV_FIETS,Yes
+Zaandam,ZD002,29,1714585286,OV_FIETS,Yes
+Beilen,bl001,17,1714585286,OV_FIETS,No
+Den Dolder,dld001,1,1714585286,OV_FIETS,Yes
+'s-Hertogenbosch Oost,Hto001,4,1714585286,OV_FIETS,Yes
+Assen,asn001,156,1714585286,OV_FIETS,Yes
+Vlissingen,vs001,15,1714585286,OV_FIETS,No
+Enschede,es003,47,1714585286,OV_FIETS,Yes
+Helmond,hm001,24,1714585286,OV_FIETS,Yes
+Amsterdam Lelyplein,asdl001,1,1714585286,OV_FIETS,No
+Sliedrecht,sdt001,3,1714585286,OV_FIETS,Yes
+Voorschoten,vst001,2,1714585286,OV_FIETS,Yes
+Diemen Zuid,dmnz001,0,1714585286,OV_FIETS,Yes
+Appingedam,Apg001,5,1714585286,OV_FIETS,Yes
+Rotterdam Lombardijen,rlb001,3,1714585286,OV_FIETS,Yes
+Reuver,rv001,6,1714585286,OV_FIETS,Yes
+Utrecht Rijnsweerd,ut903,0,1714585286,OV_FIETS,Yes
+Wijchen,wc001,5,1714585286,OV_FIETS,Yes
+Elst,est001,2,1714585286,OV_FIETS,Yes
+Apeldoorn,apd001,304,1714585286,OV_FIETS,Yes
+Hengelo,hgl002,20,1714585286,OV_FIETS,Yes
+Rijswijk,rsw002,28,1714585286,OV_FIETS,Yes
+Middelburg,mdb002,21,1714585286,OV_FIETS,Yes
+Ede-Wageningen Zuidplein,ed002,18,1706022071,OV_FIETS,Yes
