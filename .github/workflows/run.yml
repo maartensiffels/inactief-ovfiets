@@ -3,9 +3,8 @@ name: Run Python script
 on:
   #push:
   workflow_dispatch:
-  schedule:
-    # Draait elke uur
-    - cron: '*/15 * * * *'
+  #schedule:
+    # - cron: '*/15 * * * *'
 
 permissions: write-all
 
